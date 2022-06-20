@@ -1,0 +1,23 @@
+{
+  "name": "consumindoapi",
+  "version": "1.0.0",
+  "description": "Consultando api com fetch api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniciusEderman/ConsumindoAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViniciusEderman/ConsumindoAPI/issues"
+  },
+  "homepage": "https://github.com/ViniciusEderman/ConsumindoAPI#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
