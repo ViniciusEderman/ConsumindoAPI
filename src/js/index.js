@@ -24,5 +24,3 @@ cep.addEventListener("blur",(event) => {
     })
     .catch(event => console.log('ERROR: ' + event,message));
 });
-
-//teste de github
