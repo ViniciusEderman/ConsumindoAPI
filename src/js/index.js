@@ -1,9 +1,9 @@
 
 const cep = document.querySelector("#cep");
 
-const showData = (resultado)=>{
+const showData = (resultado)=> {
     for(const campos in resultado) {
-        if(document.querySelector("#"+campos)){
+        if(document.querySelector("#"+campos)) {
             document.querySelector("#"+campos).value = resultado[campos];
             console.log(campos);
         }
