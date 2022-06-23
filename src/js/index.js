@@ -1,5 +1,6 @@
 
 const cep = document.querySelector("#cep");
+
 const showData = (resultado)=>{
     for(const campos in resultado) {
         if(document.querySelector("#"+campos)){
@@ -23,3 +24,5 @@ cep.addEventListener("blur",(event) => {
     })
     .catch(event => console.log('ERROR: ' + event,message));
 });
+
+//teste de github
