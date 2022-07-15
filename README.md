@@ -21,6 +21,6 @@
 
 # 💬 Index.js funcionalidade:
     As funcionalidades básicas do app é simplesmente
-     pegar o que foi digitado no html e fazer a busca, 
+    pegar o que foi digitado no html e fazer a busca, 
     utilizando a requisição http da api viacep. 
     O then/catch ficará responsável por tentar pegar a resposta em formato json e caso aconteça algum erro será pego pelo catch e mostrado no terminal
